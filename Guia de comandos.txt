@@ -3,3 +3,6 @@ git remote add origin + URL_DO_REPOSITORIO > para adicionar o repositório remot
 git add . > para adicionar o arquivo na staging area ( área de preparação ).
 git commit -m "" > para fazer um comentário sobre o arquivo, que ficará visível no GitHub.
 git push origin main > para empurrar/subir o arquivo para o repositório do GitHub.
+
+Agora estamos na nova ** Branch **
+git checkout -b DevGen
