@@ -1,0 +1,5 @@
+git init > para criar um repositório GIT local.
+git remote add origin + URL_DO_REPOSITORIO > para adicionar o repositório remoto como origem.
+git add . > para adicionar o arquivo na staging area ( área de preparação ).
+git commit -m "" > para fazer um comentário sobre o arquivo, que ficará visível no GitHub.
+git push origin main > para empurrar/subir o arquivo para o repositório do GitHub.
